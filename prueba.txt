@@ -1,1 +1,2 @@
-Este es un archico de prueba.
+Este es un archivo de pruebas.
+Hola mundo
